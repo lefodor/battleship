@@ -22,7 +22,7 @@ int main(){
         //Player p2(p1) ;
         Player p2 ;
         // run game, 17=5+4+3+3+2 (sizes of all ships)
-        if( rungame(p1, p2, 2)==1 ){
+        if( rungame(p1, p2, 17)==1 ){
             return 0 ;
         } ;
     };
